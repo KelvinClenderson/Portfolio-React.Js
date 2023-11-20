@@ -33,5 +33,5 @@ A compilação é reduzida e os nomes dos arquivos incluem os hashes.
 Seu aplicativo está pronto para ser implantado!
 
 Consulte a seção sobre [implantação](https://facebook.github.io/create-react-app/docs/deployment) para obter mais informações.
-"# kelvinclenderson.github.io" 
-"# kelvinclenderson" 
+"# kelvinclenderson.github.io"
+"# kelvinclenderson"
