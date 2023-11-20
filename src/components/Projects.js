@@ -14,17 +14,19 @@ export const Projects = () => {
             description:
                 "Neste projeto criei um site de filmes consumindo uma api, ainda está em desenvolvimento para aprimorar.",
             imgUrl: movieApi,
-            href: "https://github.com/KelvinClenderson/Api_Movies",
+            link: "https://github.com/KelvinClenderson/Api_Movies",
         },
         {
             title: "1° Portfolio Pessoal",
             description: "Meu primeiro portfolio criado ",
             imgUrl: Projectportfolio,
+            link: "https://github.com/KelvinClenderson/Api_Movies",
         },
         {
             title: "Business Startup",
             description: "Design & Development",
             imgUrl: projImg3,
+            link: "https://github.com/KelvinClenderson/Api_Movies",
         },
     ];
 
