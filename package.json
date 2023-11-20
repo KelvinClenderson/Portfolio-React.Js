@@ -35,7 +35,7 @@
         "test": "react-scripts test",
         "eject": "react-scripts eject",
         "predeploy": "npm run build",
-        "deploy": "gh-pages -d dist -r git@github.com:KelvinClenderson/portfolio-kelvin-clenderson-.git"
+        "deploy": "gh-pages -d dist -r https://github.com/KelvinClenderson/portfolio-kelvin-clenderson-.git"
     },
     "eslintConfig": {
         "extends": [

@@ -1,6 +1,6 @@
 {
   "files": {
-    "main.css": "/kelvinclenderson.github.io/portfolio-kelvin-clenderson-/static/css/main.c1003a11.css",
+    "main.css": "/kelvinclenderson.github.io/portfolio-kelvin-clenderson-/static/css/main.0ed14944.css",
     "main.js": "/kelvinclenderson.github.io/portfolio-kelvin-clenderson-/static/js/main.32c1ea0c.js",
     "static/js/787.77ecef86.chunk.js": "/kelvinclenderson.github.io/portfolio-kelvin-clenderson-/static/js/787.77ecef86.chunk.js",
     "static/media/color-sharp.png": "/kelvinclenderson.github.io/portfolio-kelvin-clenderson-/static/media/color-sharp.bea361cfef80fefc2d1e.png",
@@ -27,12 +27,12 @@
     "index.html": "/kelvinclenderson.github.io/portfolio-kelvin-clenderson-/index.html",
     "static/media/nav-icon2.svg": "/kelvinclenderson.github.io/portfolio-kelvin-clenderson-/static/media/nav-icon2.fd4f874dd11cbcbdd6bd805590bf4be7.svg",
     "static/media/nav-icon1.svg": "/kelvinclenderson.github.io/portfolio-kelvin-clenderson-/static/media/nav-icon1.dff40ae802524d8fc0cbce3f312abe4f.svg",
-    "main.c1003a11.css.map": "/kelvinclenderson.github.io/portfolio-kelvin-clenderson-/static/css/main.c1003a11.css.map",
+    "main.0ed14944.css.map": "/kelvinclenderson.github.io/portfolio-kelvin-clenderson-/static/css/main.0ed14944.css.map",
     "main.32c1ea0c.js.map": "/kelvinclenderson.github.io/portfolio-kelvin-clenderson-/static/js/main.32c1ea0c.js.map",
     "787.77ecef86.chunk.js.map": "/kelvinclenderson.github.io/portfolio-kelvin-clenderson-/static/js/787.77ecef86.chunk.js.map"
   },
   "entrypoints": [
-    "static/css/main.c1003a11.css",
+    "static/css/main.0ed14944.css",
     "static/js/main.32c1ea0c.js"
   ]
 }
