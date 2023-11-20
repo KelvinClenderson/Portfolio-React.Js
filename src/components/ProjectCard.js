@@ -13,6 +13,7 @@ export const ProjectCard = ({ title, description, imgUrl, link }) => {
                 <div className="proj-txtx">
                     <h4>{title}</h4>
                     <span>{description}</span>
+                    <h5 className="proj-link">{link}</h5>
                     <button
                         className="buttonProject py-3"
                         onClick={redirectToLink}
